@@ -1,4 +1,4 @@
-# Seleção de estágio Reconcavo
+# Seleção de estágio Recôncavo
 
 ## Exemplo 1 - Espaço em disco
  Utilizando o comando "df" (disk free) juntamente com o "-h" (para facilitar a leitura e melhor compreensão) pode-se obter as informações sobre o disco no print abaixo:
